@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 cards:
-  message: "This is cards ms API in prod"
+  message: "This is cards ms API in prod also working actuator"
   contactDetails:
     name: "We are in prod is dark"
     email: "whoKnows@gmail.com"
