@@ -2,7 +2,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "This is accounts ms API"
+  message: "This is accounts API lets try if this actuator its working"
   contactDetails:
     name: "Java developer easy"
     email: "whoKnows@gmail.com"
