@@ -2,7 +2,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "This is accounts ms API in prod"
+  message: "This is accounts ms API in prod lets see if the actuator is working and update alone the ms"
   contactDetails:
     name: "We are in prod is dark"
     email: "whoKnows@gmail.com"
